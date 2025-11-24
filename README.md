@@ -52,5 +52,4 @@ Planned Updates:
 The theoretical underpinnings of the CLK Codec are detailed in the following research papers:  
  * Wippersberger, K. L. (2025). “The Universal Meaning Equation: A Framework for Semantic Preservation in Signal Processing.” arXiv:2511.xxxxx  
  * Wippersberger, K. L. (2025). “Broken Darkness: Quantum Validation of Golden Ratio Damping.” arXiv:2511.xxxxx  
-(Note: This specification is proprietary and is part of the KlickSonics development suite.)  
-I hope this helps! You should now be able to copy the entire document without any issues. Please tell me if there's anything else I can put directly in the chat for you.  
+(Note: This specification is proprietary and is part of the KlickSonics development suite.)
